@@ -8,3 +8,7 @@ Toda la información aquí utilizada sale de Wikipedia y Marvel.com
 
 ### Nota
 Modificacion en github
+
+# Nota desde VS
+ Modificacion desde consola para cerrar el issue
+ 
