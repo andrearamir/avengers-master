@@ -12,3 +12,5 @@ Modificacion en github
 # Nota desde VS
  Modificacion desde consola para cerrar el issue
  
+ # Cerrar el issue desde VS
+ cerrar el issue en el commit 
